@@ -1,6 +1,9 @@
 #!/bin/bash
-BVH_FOLDER="/home/erick/MotionProjs/Bandai-Namco-Research-Motiondataset/dataset/Bandai-Namco-Research-Motiondataset-2/data/"
-FBX_FOLDER="/home/erick/MotionProjs/bandai_namco_fbx/"
+#BVH_FOLDER="/home/erick/MotionProjs/Bandai-Namco-Research-Motiondataset/dataset/Bandai-Namco-Research-Motiondataset-2/data/"
+#FBX_FOLDER="/home/erick/MotionProjs/bandai_namco_fbx2/"
+
+BVH_FOLDER="/home/erick/MotionProjs/Bandai-Namco-Research-Motiondataset/dataset/Bandai-Namco-Research-Motiondataset-1/data/"
+FBX_FOLDER="/home/erick/MotionProjs/bandai_namco_fbx1/"
 
 SCRIPT_PATH="/home/erick/MotionProjs/BlenderProjects/transform_cmu_bvh_to_fbx/BlenderScriptProject/bandai_namco_transform.py"
 for f in $(find $BVH_FOLDER -name '*.bvh')

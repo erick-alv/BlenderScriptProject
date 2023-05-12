@@ -5,8 +5,7 @@
 #BVH_FOLDER="/home/erick/MotionProjs/zeggs/for_tpose/"
 #FBX_FOLDER="/home/erick/MotionProjs/zeggs_tpose/"
 
-#BVH_FOLDER="/home/erick/MotionProjs/cmu_balance_bvh/"
-BVH_FOLDER="/home/erick/MotionProjs/cmu_temp/"
+BVH_FOLDER="/home/erick/MotionProjs/cmu_balance_bvh/"
 FBX_FOLDER="/home/erick/MotionProjs/cmu_balance_fbx/"
 
 SCRIPT_PATH="/home/erick/MotionProjs/BlenderProjects/transform_cmu_bvh_to_fbx/BlenderScriptProject/convert_fbx.py"
